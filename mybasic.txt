@@ -4,3 +4,4 @@
 4.git config --global user.name "amit152004singh"
 git push -u origin master
 7.done
+8.this is all to be done

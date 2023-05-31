@@ -1,0 +1,6 @@
+1.make a repository
+2.commit a file name README.md
+3.make it parallel to global branch
+4.git config --global user.name "amit152004singh"
+git push -u origin master
+7.done
